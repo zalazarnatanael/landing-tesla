@@ -4,6 +4,10 @@ Este es una replica de la landing de Tesla, en el cual se utilizo Astro y Tailwi
 
 This project is a clone of the Tesla Landing, developed with Astro and Tailwind.
 
+# Screenshots
+
+![Home 1](https://raw.githubusercontent.com/zalazarnatanael/landing-tesla/main/public/home1.png)
+![Home 2](https://raw.githubusercontent.com/zalazarnatanael/landing-tesla/main/public/home2.png)
 
 ## 🧞 Commands
 
